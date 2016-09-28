@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Aap Ki App Remaining Modules">
+	<test name="Create Aap Ki App Remaining Modules">
+		<classes>
+			<class name="com.ranosys.aapkiapp.AapKiAppRegistration" />
+			<class name="com.ranosys.aapkiapp.ActivateAapKiApp" />
+			<class name="com.ranosys.aapkiapp.AapKiAppModules" />
+		</classes>
+	</test>
+</suite>

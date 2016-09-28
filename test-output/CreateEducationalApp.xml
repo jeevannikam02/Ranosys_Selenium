@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Aap Ki App">
+	<test name="Create Educational App">
+		<classes>
+			<class name="com.ranosys.aapkiapp.AapKiAppRegistration" />
+			<class name="com.ranosys.aapkiapp.ActivateAapKiApp" />
+			<class name="com.ranosys.aapkiapp.AapKiAppCreateEducationalApp" />
+		</classes>
+	</test>
+</suite>

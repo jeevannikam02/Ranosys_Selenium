@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Aap Ki App]">
+  <test name="Create Aap Ki App(failed)">
+    <classes>
+      <class name="com.ranosys.aapkiapp.ActivateAapKiApp">
+        <methods>
+          <include name="writereport"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.ranosys.aapkiapp.ActivateAapKiApp -->
+      <class name="com.ranosys.aapkiapp.AapKiAppRegistration">
+        <methods>
+          <include name="writereport"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.ranosys.aapkiapp.AapKiAppRegistration -->
+      <class name="com.ranosys.aapkiapp.AapKiAppCreateApp">
+        <methods>
+          <include name="writereport"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.ranosys.aapkiapp.AapKiAppCreateApp -->
+      <class name="com.ranosys.aapkiapp.AppKiAppOperator">
+        <methods>
+          <include name="writereport"/>
+          <include name="executeAapKiAppCreateApp"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.ranosys.aapkiapp.AppKiAppOperator -->
+      <class name="com.ranosys.aapkiapp.ActivateOperator">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="writereport"/>
+        </methods>
+      </class> <!-- com.ranosys.aapkiapp.ActivateOperator -->
+    </classes>
+  </test> <!-- Create Aap Ki App(failed) -->
+</suite> <!-- Failed suite [Aap Ki App] -->

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="132704" started-at="2016-09-28T09:29:57Z" finished-at="2016-09-28T09:32:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="132704" started-at="2016-09-28T09:29:57Z" finished-at="2016-09-28T09:32:10Z">
+      <class name="com.ranosys.aapkiapp.ActivateAapKiApp">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ranosys.aapkiapp.ActivateAapKiApp@6ddf90b0]" name="beforeMethod" is-config="true" duration-ms="46413" started-at="2016-09-28T14:59:57Z" finished-at="2016-09-28T15:00:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="executeActivateAapKiApp()[pri:0, instance:com.ranosys.aapkiapp.ActivateAapKiApp@6ddf90b0]" name="executeActivateAapKiApp" duration-ms="86274" started-at="2016-09-28T15:00:44Z" finished-at="2016-09-28T15:02:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeActivateAapKiApp -->
+        <test-method status="PASS" signature="writereport()[pri:0, instance:com.ranosys.aapkiapp.ActivateAapKiApp@6ddf90b0]" name="writereport" is-config="true" duration-ms="0" started-at="2016-09-28T15:02:10Z" finished-at="2016-09-28T15:02:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writereport -->
+      </class> <!-- com.ranosys.aapkiapp.ActivateAapKiApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
